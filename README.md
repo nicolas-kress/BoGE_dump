@@ -7,10 +7,6 @@ and whatever else I feel is appropriate here
 
 ## Schedule
 
-Last tutorial: Wednesday April 23 (exercise sheet 2.8, questions and answers [here](2.8_answers.pdf)).
+All tutorials done (oh no!)
+Good luck on your exam everyone. For your studying, I've added a sheet of exercises on change of variables in higher dimension.
 
-Next tutorial: Wednesday May 6
-Then:
-* Wednesday May 13
-* Wednesday May 20
-* Tuesday May 26
