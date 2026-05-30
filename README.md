@@ -10,3 +10,5 @@ and whatever else I feel is appropriate here
 All tutorials done (oh no!)
 Good luck on your exam everyone. For your studying, I've added a sheet of exercises on change of variables in higher dimension.
 
+ERRATUM: for the change of variables exercise sheet
+* Question 3: b is in R^d, not R.
